@@ -3,5 +3,11 @@ public class Main {
 
         System.out.println("Welcome to Macy's");
 
+        WomanBag bag=new WomanBag();
+        bag.type="crossBody";
+        bag.color="white";
+        bag.price="99";
+
+
     }
 }
